@@ -68,22 +68,23 @@
 @media only screen and (max-width: 426px) {
 
   .articles__inner {
-    max-width: 327px;
     width: 100%;
   }
   
   .articles__list {
-    max-width: 327px;
     width: 100%;
     flex-direction: column;
   }
 
   .articles__item {
+    margin-right: auto;
+    margin-left: auto;
     width: 100%;
     margin-bottom: 24px;
   }
 
   .articles__heading{
+    text-align: center;
     padding-left: 0;
   }
 
