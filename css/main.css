@@ -889,4 +889,8 @@ footer {
   .footer__invite {
     display: none;
   }
+
+  .footer__logo-img {
+    margin-bottom: 30px;
+  }
 }/*# sourceMappingURL=main.css.map */
